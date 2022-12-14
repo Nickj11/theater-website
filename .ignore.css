@@ -1,0 +1,104 @@
+*{
+    font-style: roboto;
+    
+}
+img{
+    width: 99%;
+    margin: 0px;
+    display: flex;
+    justify-content: stretch;
+    background-color: black;
+
+}
+.flexbox-contaniner-title{
+    color: white;
+    width: -20px;
+    font-size: 100px;
+    position: absolute;
+    font-family: 'Roboto', sans-serif;
+    left: 20%;
+    top: 40%;
+    background-color: transparent;
+    font-weight:lighter
+}
+ nav a{
+    text-align: center;
+    list-style-type: none;
+    text-decoration: none;
+    color: white;
+    background-color: black
+}
+nav li{
+    display: inline;
+    text-align: right;
+    background-color: black;
+    justify-content: space-between;
+    background-color: black;
+    position: relative;
+    
+}
+nav ul{
+    text-align: center;
+    background-color: black;
+    padding-right: px;
+    font-size:110%;
+.nav-list{
+        display: flex;
+        margin: 0;
+        padding: 0;
+        list-style: none;
+        justify-content: space-around;
+        background-color: #000000;
+        flex-wrap: wrap;
+}
+
+}
+.theater{
+    text-align: end;
+    font-size: 40px;
+    left:-30%;
+}
+body html{
+    height: 100%;
+    margin: 0px;
+    
+}
+.sun{
+    width: 16%;
+    left: 20%;
+     position: relative;
+     top: 40px;
+     height: 10%;
+}
+.flexbox_items{
+    flex-direction: column;
+}
+p {
+    
+}
+button{
+    right: 80%;
+}
+
+body{
+    background-color: black;
+}
+div,p{
+    background-color: white;
+}
+nav,li{
+    
+}
+button{
+    background-color: orange;
+    color: white;
+    float: right;
+    height: 40px;
+    justify-content: start;
+    justify-items: flex-start;
+    align-items: flex-end;
+
+}
+br{
+
+}
